@@ -112,3 +112,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# 덤프 파일
+/namuwiki21*
+/corpus
