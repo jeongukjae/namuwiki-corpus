@@ -8,6 +8,10 @@
 
 라이선스는 나무위키에 명시된 바와 같이 [CC BY-NC-SA 2.0 KR](https://creativecommons.org/licenses/by-nc-sa/2.0/kr/)에 따라 이용할 수 있습니다.
 
+## 사용법
+
+Releases에서 직접 다운로드받은 후 사용하시거나, [tfds-korean 패키지](https://github.com/jeongukjae/tfds-korean)([카탈로그 페이지](https://jeongukjae.github.io/tfds-korean/datasets/namuwiki_corpus.html))를 이용해 사용하세요.
+
 ## 포맷
 
 ```text
